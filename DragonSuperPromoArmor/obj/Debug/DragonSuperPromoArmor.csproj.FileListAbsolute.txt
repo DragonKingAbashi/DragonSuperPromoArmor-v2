@@ -1,0 +1,7 @@
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\Dist\meta.json
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\Dist\DragonSuperPromoArmor.dll
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\Dist\DragonSuperPromoArmor.pdb
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\DragonSuperPromoArmor\obj\Debug\DragonSuperPromoArmor.csproj.AssemblyReference.cache
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\DragonSuperPromoArmor\obj\Debug\DragonSuperPromoArmor.csproj.CoreCompileInputs.cache
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\DragonSuperPromoArmor\obj\Debug\DragonSuperPromoArmor.dll
+C:\Users\Lewie\Documents\DragonSuperPromoArmor\DragonSuperPromoArmor\obj\Debug\DragonSuperPromoArmor.pdb

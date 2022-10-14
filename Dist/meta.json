@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.DragonSuperPromo",
+  "AssemblyName": "DragonSuperPromoArmor.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "DragonKingAbashi"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Dragon Super Promo Armor"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "New Mod description"
+    }
+  ],
+  "Dependencies": []
+}
